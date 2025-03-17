@@ -1,3 +1,4 @@
-# Google Machine Learning Crash Course
+# Google courses
 
+Machine Learning Crash Course:
 https://developers.google.com/machine-learning/crash-course/
